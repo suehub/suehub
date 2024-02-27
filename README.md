@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 <!-- ![(suehub)'s GitHub stats](https://github-readme-stats.vercel.app/api?username=suehub&theme=dracula) -->
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
