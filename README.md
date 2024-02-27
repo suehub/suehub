@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![(suehub)'s GitHub stats](https://github-readme-stats.vercel.app/api?username=suehub&theme=dracula)
+<!-- ![(suehub)'s GitHub stats](https://github-readme-stats.vercel.app/api?username=suehub&theme=dracula) -->
+
+![](./profile-3d-contrib/profile-green-animate.svg)
